@@ -22,4 +22,3 @@ $(RELEASE_EXEC): $(SOURCE)
 
 clean:
 	rm -f $(RELEASE_EXEC) $(DEBUG_EXEC)
-ddddddddd
